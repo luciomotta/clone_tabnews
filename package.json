@@ -4,7 +4,9 @@
   "description": "Clone do rep. Felipe deschamps. Implementando do https://www.tabnews.com.br para o https://cursodev.com",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",

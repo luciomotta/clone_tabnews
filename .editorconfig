@@ -1,0 +1,6 @@
+root = true
+
+#Isso ira aplicar as regras a todos os arquivos
+[*]
+indent_style = space
+indent_size = 2
